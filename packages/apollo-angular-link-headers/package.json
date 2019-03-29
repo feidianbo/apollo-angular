@@ -30,7 +30,7 @@
   "devDependencies": {
     "@angular/common": "7.2.11",
     "@angular/core": "7.2.11",
-    "@types/graphql": "14.0.7",
+    "@types/graphql": "14.2.0",
     "@types/jest": "23.3.13",
     "apollo-link": "1.2.11",
     "graphql": "14.2.0",
